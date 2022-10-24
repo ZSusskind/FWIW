@@ -1,0 +1,6 @@
+*.swp
+*.pt
+env/
+__pycache__
+software_model/dataset
+*.png
