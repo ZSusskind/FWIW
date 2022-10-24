@@ -1,4 +1,6 @@
 # FWIW
+[![DOI](https://zenodo.org/badge/556513783.svg)](https://zenodo.org/badge/latestdoi/556513783)
+
 Code to accompany the paper:
 
 **An FPGA-Based Weightless Neural Network for Edge Network
